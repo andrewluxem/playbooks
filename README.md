@@ -106,6 +106,10 @@ Each row links the playbook on the site, then the repository that holds its skil
 - [Employee Recognition](https://www.andrewluxem.com/playbooks/employee-recognition) · [repo](https://github.com/andrewluxem/employee-recognition)
 - [Praise and Recognition](https://www.andrewluxem.com/playbooks/praise-and-recognition) · [repo](https://github.com/andrewluxem/praise-and-recognition)
 
+## Tools
+
+- [Repo Audit Prompt](https://github.com/andrewluxem/repo-audit-prompt): generates a tier-gated, 8-check security audit prompt for third-party repos and agent skills before you adopt them
+
 ## The rest of the library
 
 The remaining 21 cover strategy, launches, operating reviews, team design, job leveling, hiring, and performance management. They are included in the full library.
