@@ -109,6 +109,8 @@ Each row links the playbook on the site, then the repository that holds its skil
 ## Tools
 
 - [Repo Audit Prompt](https://github.com/andrewluxem/repo-audit-prompt): generates a tier-gated, 8-check security audit prompt for third-party repos and agent skills before you adopt them
+- [Attacker Audit](https://github.com/andrewluxem/attacker-audit): read-only audit of your own web app from an attacker's view: 23 checks across secrets, auth, database, input, and exposure, with a ranked fix order
+- [Sue-Me Audit](https://github.com/andrewluxem/sue-me-audit): read-only audit of your codebase from a plaintiff's view: 24 checks across privacy, content, sales, and AI, with cited fixes and a ranked fix order
 
 ## The rest of the library
 
